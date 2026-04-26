@@ -1,4 +1,10 @@
 # Zomato Restaurant Trend Analysis — Bangalore
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Status](https://img.shields.io/badge/Status-Complete-green)
+![Dataset](https://img.shields.io/badge/Dataset-50K%2B%20Records-red)
 
 ## Overview
 End to end data analysis project on 50,000+ restaurant listings 
